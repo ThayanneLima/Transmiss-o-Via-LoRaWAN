@@ -18,6 +18,7 @@ static const u4_t DEVADDR = 0x260D32EF; // Device Address 0x26, 0x0D, 0x32, 0xEF
 // Declaração da variável sendjob
 osjob_t sendjob;
 
+//hahaha
 // Definição dos pinos para o LoRa
 const lmic_pinmap lmic_pins = {
     .nss = 18,
